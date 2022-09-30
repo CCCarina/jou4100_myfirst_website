@@ -1,0 +1,17 @@
+img {
+   max-width: 600px; 
+}
+
+.intropapa {
+    font-size: 14px;
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+abbr{
+    display: inline;
+}
